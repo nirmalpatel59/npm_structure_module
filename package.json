@@ -1,0 +1,22 @@
+{
+  "name": "nirmal_structure",
+  "version": "1.1.6",
+  "description": "demo for cli tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "app"
+  ],
+  "dependencies": {
+    "commander": "2.9.0",
+    "mkdirp": "0.5.1"
+  },
+  "bin": {
+    "nirmal123": "bin/app.js"
+  },
+  "author": "nirmal patel",
+  "license": "ISC"
+}
